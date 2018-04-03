@@ -5,7 +5,11 @@ include_once 'dbconfig.php';
 if(isset($_GET['delete_id']))
 {
 	//delete logic here
-	
+	//this is DJ doin SCREEN RECORDING TEST
+	$array = [
+			"foo" => "bar",
+			"bar" => "foo",
+	];
 }
 // delete condition
 
